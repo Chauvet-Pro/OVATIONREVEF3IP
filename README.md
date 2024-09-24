@@ -1,11 +1,8 @@
-# Ovation Reve F-3 IP
+# Ovation Rêve F-3 IP
 
 ## Software Versions
 
-[V1.1.1 - Ovation Reve F-3 IP](https://github.com/Chauvet-Pro/OVATIONREVEF3IP/blob/735fc6fb3f7a69c0fe2795c2c464620a399334d1/Firmware/V1.1.1_09-20-24.zip)
-- Improved fan performance
-
-[V1.0.0 - Ovation Reve F-3 IP](https://github.com/Chauvet-Pro/OVATIONREVEF3IP/blob/5bd62d43ce08e74daf74a5d3d38a4756becc7437/Firmware/V1.0.0_03-12-24.zip)
+[V1.0.0 - Ovation Rêve F-3 IP](https://github.com/Chauvet-Pro/OVATIONREVEF3IP/blob/5bd62d43ce08e74daf74a5d3d38a4756becc7437/Firmware/V1.0.0_03-12-24.zip)
 - Released software version
 
 &nbsp;
