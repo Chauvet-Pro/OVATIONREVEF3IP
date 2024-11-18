@@ -2,6 +2,9 @@
 
 ## Software Versions
 
+[V1.0.2 - Ovation Rêve F-3 IP](https://github.com/Chauvet-Pro/OVATIONREVEF3IP/blob/b62a369847543d7b0011be3cde0b0a23af30180f/Firmware/V1.0.2_11-18-24.zip)
+- Improved fan stability in silent mode
+
 [V1.0.0 - Ovation Rêve F-3 IP](https://github.com/Chauvet-Pro/OVATIONREVEF3IP/blob/5bd62d43ce08e74daf74a5d3d38a4756becc7437/Firmware/V1.0.0_03-12-24.zip)
 - Released software version
 
